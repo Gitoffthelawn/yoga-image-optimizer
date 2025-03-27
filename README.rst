@@ -36,7 +36,7 @@ Linux (PyPI)
 
 You must install the dependencies on your system first. It can be done via the following command on Debian and Ubuntu::
 
-    sudo apt install git build-essential python3 python3-dev python3-pip libgirepository1.0-dev libcairo2-dev pkg-config gir1.2-gtk-3.0
+    sudo apt install git build-essential python3 python3-dev python3-pip libgirepository2.0-dev libcairo2-dev pkg-config gir1.2-gtk-3.0
 
 Then install YOGA Image Optimizer with pip::
 
